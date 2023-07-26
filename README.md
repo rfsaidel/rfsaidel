@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Saidel ^^
 - 👀 I’m interested in Kotlin for Android development and KMM
-- 🌱 I’m currently learning Android JetPack Compose, Proguard advanced features, KMM
+- 🌱 I’m currently developing using Android JetPack Compose and I've love it! \o/
 - 💞️ I’m looking to collaborate on Libraries improvement
 - 📫 How to reach me: Here! \O/
